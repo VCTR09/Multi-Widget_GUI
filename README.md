@@ -7,9 +7,6 @@
 
 ### Программа в действии
 
-![IMG_1810](https://user-images.githubusercontent.com/97599612/165483692-703e4519-1672-4f63-bce3-d8f52ce0cfaa.JPG)
-
-
 <img width="519" alt="converter" src="https://user-images.githubusercontent.com/97599612/168225732-4f832746-b3db-418a-a4c3-42e013ce190f.png">
 
 ### Полный код программы:
